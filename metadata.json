@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: DeepScan AI",
+  "description": "An advanced deepfake detection prototype utilizing Gemini Vision to analyze images and videos for digital manipulation and synthetic artifacts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
